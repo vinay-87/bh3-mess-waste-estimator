@@ -1,0 +1,46 @@
+date,meal,day,item,qty_prepared_kg,qty_leftover_kg,students_present,notes
+2026-11-15,breakfast,Sunday,Aloo-Pyaaz Paratha,10,4.5,55,sunday morning most guys sleeping till 11
+2026-11-15,lunch,Sunday,Veg Biriyani,22,3.8,125,decent turnout for biriyani
+2026-11-15,lunch,Sunday,Arhar Dal Tadka,12,3.2,125,
+2026-11-15,lunch,Sunday,Aloo Jhol,13,4.2,125,aloo jhol is mid nobody gets excited for it
+2026-11-15,dinner,Sunday,Pasta/Chowmein,15,1.5,148,students love this
+2026-11-15,dinner,Sunday,Veg Manchurian,12,1.2,148,another popular one
+2026-11-15,dinner,Sunday,Mix Daal,12,2.8,148,
+2026-11-16,lunch,Monday,Punjabi Kadhi-Pakode,14,2.2,174,kadhi is decent
+2026-11-16,lunch,Monday,Aloo-Shimlamirch,13,3.8,174,people skip this usually
+2026-11-16,lunch,Monday,Jeera Rice,22,3.2,174,
+2026-11-16,dinner,Monday,Egg Curry,12,0.5,168,non-veg item finishes fast always
+2026-11-16,dinner,Monday,Moong Daal,13,2.2,168,
+2026-11-16,dinner,Monday,Rice,20,3.5,168,
+2026-11-17,lunch,Tuesday,Litti Chokha,14,4.8,162,very hit or miss item
+2026-11-17,lunch,Tuesday,Arhar Daal,13,2.2,162,
+2026-11-17,lunch,Tuesday,Rice,22,3.2,162,
+2026-11-17,dinner,Tuesday,Veg Kofta Curry,13,3.5,158,okayish
+2026-11-17,dinner,Tuesday,Arhar Daal Tadka,12,2.0,158,
+2026-11-17,dinner,Tuesday,Rice,20,3.4,158,
+2026-11-18,lunch,Wednesday,Kaddu Sabzi,13,5.8,168,literally nobody eats kaddu
+2026-11-18,lunch,Wednesday,Kali Masoor Daal,13,1.8,168,daal was fine
+2026-11-18,lunch,Wednesday,Rice,22,2.5,168,puri was also served people ate that more
+2026-11-18,dinner,Wednesday,Chana Masala,14,0.8,182,everyone loves chana masala night
+2026-11-18,dinner,Wednesday,Arhar Daal,13,1.5,182,
+2026-11-18,dinner,Wednesday,Veg Fried Rice,20,1.8,182,fried rice is always popular
+2026-11-19,lunch,Thursday,Safed Matar Masala,13,2.5,172,decent
+2026-11-19,lunch,Thursday,Dal Makhni,14,0.6,172,dal makhni never wastes
+2026-11-19,lunch,Thursday,Veg Pulao,22,2.2,172,
+2026-11-19,dinner,Thursday,Aloo-Pattagobhi,13,5.8,155,another hated sabzi
+2026-11-19,dinner,Thursday,Rajma,14,0.8,155,rajma finishes always
+2026-11-19,dinner,Thursday,Rice,20,2.8,155,
+2026-11-20,breakfast,Friday,Poha,8,3.2,65,friday morning low crowd
+2026-11-20,lunch,Friday,Aloo Bhujiya,13,4.8,146,friday exodus started some guys already left
+2026-11-20,lunch,Friday,Chana Daal Tadka,13,3.5,146,
+2026-11-20,lunch,Friday,Rice,22,5.8,146,
+2026-11-20,dinner,Friday,Chicken Curry,14,1.8,105,popular item but most students gone home
+2026-11-20,dinner,Friday,Daal,12,5.2,105,barely anyone there for dinner
+2026-11-20,dinner,Friday,Rice,20,8.2,105,massive waste friday night
+2026-11-21,breakfast,Saturday,Masala Dosa,10,4.2,58,weekend sleep-in observed directly
+2026-11-21,lunch,Saturday,Chole Bhature,15,0.5,138,chole bhature is king everyone shows up
+2026-11-21,lunch,Saturday,Rice,20,5.5,138,less rice eaten because bhature
+2026-11-21,lunch,Saturday,Sambhar,10,3.2,138,sambhar was just there nobody cared
+2026-11-21,dinner,Saturday,Soyabean-Aloo,13,5.5,140,soyabean is universally hated here
+2026-11-21,dinner,Saturday,Arhar Dal Tadka,12,2.0,140,
+2026-11-21,dinner,Saturday,Veg Pulao,20,3.8,140,
